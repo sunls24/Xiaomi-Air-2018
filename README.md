@@ -32,3 +32,4 @@
 - 开启 HIDPI：[https://github.com/xzhih/one-key-hidpi](https://github.com/xzhih/one-key-hidpi)，**可能需要先关闭 SIP**，如果无法开启，可尝试 [johnnync13 Display](https://github.com/johnnync13/Xiaomi-Mi-Air/tree/master/Display) 中的脚本
 - 生成 CPUFriend 数据：[https://github.com/stevezhengshiqi/one-key-cpufriend](https://github.com/stevezhengshiqi/one-key-cpufriend) **建议安装完成后重新生成数据并替换原来的 Kext**
 - 欠压设置参考 [johnnync13](https://github.com/johnnync13/Xiaomi-Mi-Air/tree/master/BIOS/VoltageShift) 仓库中的 `VoltageShift` 相关用法
+- **生成序列号信息 (必须)**：使用 [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)，详细使用方法请参考[这里](https://dortania.github.io/OpenCore-Install-Guide/AMD/fx.html#platforminfo)
