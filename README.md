@@ -10,6 +10,7 @@
 *在 release 界面下载对应版本， 唯一的区别是 `AirportItlwm.kext` 不同*
 - [macOS 10.14 Mojave](https://github.com/sunls24/Xiaomi-Air-2018/releases?q=mojave&expanded=true)
 - [macOS 10.15 Catalina](https://github.com/sunls24/Xiaomi-Air-2018/releases?q=catalina&expanded=true)
+- [macOS 11.6 BigSur](https://github.com/sunls24/Xiaomi-Air-2018/releases?q=bigsur&expanded=true)
 
 ## 工作
 - WIFI
