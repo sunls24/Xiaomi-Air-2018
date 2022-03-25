@@ -1079,7 +1079,7 @@
 			<key>PickerMode</key>
 			<string>External</string>
 			<key>PickerVariant</key>
-			<string>Acidanthera\Syrah</string>
+			<string>Acidanthera\GoldenGate</string>
 			<key>PollAppleHotKeys</key>
 			<true/>
 			<key>ShowPicker</key>
@@ -1316,16 +1316,6 @@
 		<true/>
 		<key>Drivers</key>
 		<array>
-			<dict>
-				<key>Comment</key>
-				<string>HfsPlus.efi</string>
-				<key>Path</key>
-				<string>HfsPlus.efi</string>
-				<key>Enabled</key>
-				<true/>
-				<key>Arguments</key>
-				<string></string>
-			</dict>
 			<dict>
 				<key>Comment</key>
 				<string>OpenCanopy.efi</string>
