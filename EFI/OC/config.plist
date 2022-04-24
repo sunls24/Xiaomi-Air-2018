@@ -1043,6 +1043,10 @@
 			<true/>
 			<key>XhciPortLimit</key>
 			<false/>
+			<key>ForceAquantiaEthernet</key>
+			<false/>
+			<key>CustomPciSerialDevice</key>
+			<false/>
 		</dict>
 		<key>Scheme</key>
 		<dict>
@@ -1101,8 +1105,6 @@
 			<integer>0</integer>
 			<key>DisplayLevel</key>
 			<integer>2147483650</integer>
-			<key>SerialInit</key>
-			<false/>
 			<key>SysReport</key>
 			<false/>
 			<key>Target</key>
@@ -1166,6 +1168,13 @@
 				<true/>
 			</dict>
 		</array>
+		<key>Serial</key>
+		<dict>
+			<key>Init</key>
+			<false/>
+			<key>Override</key>
+			<false/>
+		</dict>
 	</dict>
 	<key>NVRAM</key>
 	<dict>
