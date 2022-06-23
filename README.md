@@ -11,7 +11,7 @@
 - [macOS 10.14 Mojave](https://github.com/sunls24/Xiaomi-Air-2018/releases?q=mojave&expanded=true)
 - [macOS 10.15 Catalina](https://github.com/sunls24/Xiaomi-Air-2018/releases?q=catalina&expanded=true)
 - [macOS 11.6 BigSur](https://github.com/sunls24/Xiaomi-Air-2018/releases?q=bigsur&expanded=true)
-- [macOS 12.4 Monterey](https://github.com/sunls24/Xiaomi-Air-2018/releases?q=monterey&expanded=true) Opencore v2.8.1
+- [macOS 12.4 Monterey](https://github.com/sunls24/Xiaomi-Air-2018/releases?q=monterey&expanded=true) (OpenCore v7.8.1) **推荐**
 
 ## 工作
 - WIFI
