@@ -171,9 +171,35 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>Rename Method(_PTS,1,N) to ZPTS</string>
+				<string>_WAK to ZWAK (SSDT-PTSWAK)</string>
 				<key>Count</key>
-				<integer>1</integer>
+				<integer>0</integer>
+				<key>Enabled</key>
+				<true/>
+				<key>Find</key>
+				<data>X1dBSwE=</data>
+				<key>Limit</key>
+				<integer>0</integer>
+				<key>Mask</key>
+				<data></data>
+				<key>OemTableId</key>
+				<data></data>
+				<key>Replace</key>
+				<data>WldBSwE=</data>
+				<key>ReplaceMask</key>
+				<data></data>
+				<key>Skip</key>
+				<integer>0</integer>
+				<key>TableLength</key>
+				<integer>0</integer>
+				<key>TableSignature</key>
+				<data>AAAAAA==</data>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>_PTS to ZPTS (SSDT-PTSWAK)</string>
+				<key>Count</key>
+				<integer>0</integer>
 				<key>Enabled</key>
 				<true/>
 				<key>Find</key>
@@ -193,33 +219,7 @@
 				<key>TableLength</key>
 				<integer>0</integer>
 				<key>TableSignature</key>
-				<data>RFNEVA==</data>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>Rename Method(_WAK,1,S) to ZWAK</string>
-				<key>Count</key>
-				<integer>1</integer>
-				<key>Enabled</key>
-				<true/>
-				<key>Find</key>
-				<data>X1dBSwk=</data>
-				<key>Limit</key>
-				<integer>0</integer>
-				<key>Mask</key>
-				<data></data>
-				<key>OemTableId</key>
-				<data></data>
-				<key>Replace</key>
-				<data>WldBSwk=</data>
-				<key>ReplaceMask</key>
-				<data></data>
-				<key>Skip</key>
-				<integer>0</integer>
-				<key>TableLength</key>
-				<integer>0</integer>
-				<key>TableSignature</key>
-				<data>RFNEVA==</data>
+				<data>AAAAAA==</data>
 			</dict>
 		</array>
 		<key>Quirks</key>
@@ -1235,13 +1235,13 @@
 			<key>AdviseFeatures</key>
 			<true/>
 			<key>MLB</key>
-			<string></string>
+			<string>C02937501QXHWVPAD</string>
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
-			<data></data>
+			<data>LLQ6Q4sS</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
@@ -1249,9 +1249,9 @@
 			<key>SystemProductName</key>
 			<string>MacBookPro14,1</string>
 			<key>SystemSerialNumber</key>
-			<string></string>
+			<string>C02ZD0ASHV29</string>
 			<key>SystemUUID</key>
-			<string></string>
+			<string>0D674B96-1F04-41C0-89E1-955183B9A8C9</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
